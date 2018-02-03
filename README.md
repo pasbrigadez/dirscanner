@@ -2,4 +2,4 @@
 
 Path File : Direktori tempat file berada, contoh : D:\path\file.exe atau /root/file.sh<br/>
 URL : Kamu harus menambahkan http:// atau https://<br/>
-File yang ditemukan akan masuk ke : ditemukan.txt
+Directory yang ditemukan akan masuk ke : ditemukan.txt
